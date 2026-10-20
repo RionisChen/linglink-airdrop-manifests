@@ -1,0 +1,662 @@
+{
+  "schema": "linglink-airdrop-manifest/v1",
+  "roundNo": 11,
+  "chainId": 97,
+  "tokenAddress": "0x5e217C2920b4C570D1C180E3ea642593Db1276b6",
+  "distributorAddress": "0xaBe16bf68D85B5B6bD5e3b3B016957dD065703BC",
+  "merkleRoot": "0xa3451831746156d2545c4b838e7dfe71eebf0b358375c2b12b5f9bbf2585524f",
+  "publishedAt": 1792144904,
+  "leafCount": 107,
+  "totalAmount": "11250000000000000000000",
+  "leafAlgorithm": "keccak256(bytes.concat(keccak256(abi.encode(recipient,groupId,amount,unlockAt))))",
+  "pairHashAlgorithm": "openzeppelin-sorted-pair",
+  "groups": {
+    "1": "Registration",
+    "2": "Profile",
+    "3": "Referral"
+  },
+  "entries": [
+    {
+      "recipient": "0x0541a72aB719aCbEBCA306832759Fc09e5c32C44",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x0541a72aB719aCbEBCA306832759Fc09e5c32C44",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x06fE85c36dA2d855a134328E08CFb149c283ba44",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x06fE85c36dA2d855a134328E08CFb149c283ba44",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x0aBd025Dc37fa8592f7dbE57fBff9505fBe27004",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x0aBd025Dc37fa8592f7dbE57fBff9505fBe27004",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x1a8aED547CEb80f97cA988f74c80c0b53C0B16fc",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x1B23DD7254699F73300cb7a110a77a170C79e6ef",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x1B23DD7254699F73300cb7a110a77a170C79e6ef",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x1BDeE89Be540c699Ae69F2Da794FA611444dC73D",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x1eC84E90c4C34156871A99d61C98bF2E8444d114",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x1eC84E90c4C34156871A99d61C98bF2E8444d114",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x217340da55cE4BF67fECBABFC188d25a0a419Cb1",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x219D519871B1c18DE3bD6297482aC0a25ac93A27",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x219D519871B1c18DE3bD6297482aC0a25ac93A27",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x22b60fb544e55B234E996A260D445da3F9F61C97",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x22b60fb544e55B234E996A260D445da3F9F61C97",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x29ba3a2da3F5F0Eb5Db3680dc653BC474e9BAa94",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x29ba3a2da3F5F0Eb5Db3680dc653BC474e9BAa94",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x2faE991C4DcFb6E9229E687525B8259E032d0C7e",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x30a15778FE70C36EC6D5Cb1bFaB71ccB800666D1",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x30a15778FE70C36EC6D5Cb1bFaB71ccB800666D1",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x30a15778FE70C36EC6D5Cb1bFaB71ccB800666D1",
+      "groupId": 3,
+      "amount": "200000000000000000000",
+      "unlockAt": "1791801060"
+    },
+    {
+      "recipient": "0x30B4ABe3fe698EDc558b987B85dF711a7B455aF8",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x30B4ABe3fe698EDc558b987B85dF711a7B455aF8",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x30c1CE70F8f3E6a4C290a1027eD21c7C58D6E89B",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x30c1CE70F8f3E6a4C290a1027eD21c7C58D6E89B",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x32b6d1ee6810A6caD12f78bFc9c1466F21C5D13e",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x32b6d1ee6810A6caD12f78bFc9c1466F21C5D13e",
+      "groupId": 3,
+      "amount": "200000000000000000000",
+      "unlockAt": "1791801060"
+    },
+    {
+      "recipient": "0x3590FA359f16957be71be2C428C1444fBBad840d",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x3590FA359f16957be71be2C428C1444fBBad840d",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x379abe32d6a95Af623310d40cBDCB02Ad9A9f29f",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x379abe32d6a95Af623310d40cBDCB02Ad9A9f29f",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x39625BB0f908De556Ea126F55C9f0bbEeec91900",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x39625BB0f908De556Ea126F55C9f0bbEeec91900",
+      "groupId": 3,
+      "amount": "200000000000000000000",
+      "unlockAt": "1791801060"
+    },
+    {
+      "recipient": "0x405585486de1f33A10a4F5901dfD71938d897F11",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x405585486de1f33A10a4F5901dfD71938d897F11",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x41Ae34E09B051Bd1e043FF85aB962fB604f29b1E",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x41Ae34E09B051Bd1e043FF85aB962fB604f29b1E",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x423eA4293E987Da5ac4E4e6f328E075233ace1EF",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x423eA4293E987Da5ac4E4e6f328E075233ace1EF",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x4512a774f629aB5D45e169d990eC4412D5539e09",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x4512a774f629aB5D45e169d990eC4412D5539e09",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x59277D99eF16Ac8Be79aB16850aadCC3AEad970B",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x5B53517ca4fb68E424B6Da1a1079494aF0cd9638",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x5B53517ca4fb68E424B6Da1a1079494aF0cd9638",
+      "groupId": 3,
+      "amount": "200000000000000000000",
+      "unlockAt": "1791801060"
+    },
+    {
+      "recipient": "0x5Ca49F90e8261D964bf85dD6E7cf8B2Cbd9b8E0b",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x6002F83BfCFDecB45555B90F2449B131326FaBff",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x66301e94113Fd5D009F80dA2F04a6E5F2ae8Ce07",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x66301e94113Fd5D009F80dA2F04a6E5F2ae8Ce07",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x67E010da44a3cb55C30d6a66C6Cf63d56878753D",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x67E010da44a3cb55C30d6a66C6Cf63d56878753D",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x6B93ACfB59EdDfaFAEEE184073d3daDB91034C60",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x6B93ACfB59EdDfaFAEEE184073d3daDB91034C60",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x6bf417479e69566D94F9529Ac2EAC90E81e45c42",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x725944f89f2DdD10E4273dC7Da52e0160BFFBAdc",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x725944f89f2DdD10E4273dC7Da52e0160BFFBAdc",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x72F827d7347783b41A412f5A12052d3eC4611971",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x72F827d7347783b41A412f5A12052d3eC4611971",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x76599Cb7bae54eEC08cB49aB777B7F0A2BF03368",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x83730e90f45C8e04eB184cE98b71fb58a6B77b2b",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x83730e90f45C8e04eB184cE98b71fb58a6B77b2b",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199",
+      "groupId": 3,
+      "amount": "200000000000000000000",
+      "unlockAt": "1791801060"
+    },
+    {
+      "recipient": "0x8661BEDc1Eb24421a1E7cB8845242CFE2344B7Ab",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x9F62f6881C981118cBF3a9B8089CB21Fb414462F",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0x9F62f6881C981118cBF3a9B8089CB21Fb414462F",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xA151Ad22Ca2a10af821B41e6863256061Aee7756",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xA3615AA7288Dfb56D4237aE8e3355A57B75f8149",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xA3615AA7288Dfb56D4237aE8e3355A57B75f8149",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xa4Aa39f147E2A54E7a2E55F6c98304F4e241c12E",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xAE44C1A967251Abb638AD0e4beA926E9b18e092d",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xAE44C1A967251Abb638AD0e4beA926E9b18e092d",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xAE44C1A967251Abb638AD0e4beA926E9b18e092d",
+      "groupId": 3,
+      "amount": "400000000000000000000",
+      "unlockAt": "1791801060"
+    },
+    {
+      "recipient": "0xB03281Ced1a89F7725e9778C387EfEB5476868c6",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xB03281Ced1a89F7725e9778C387EfEB5476868c6",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xb99D5d9308745c30289D5591FB16CD378A142238",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xbB084DCBBc3da8eb18E42d7de193A4CdF921Fe78",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xbB084DCBBc3da8eb18E42d7de193A4CdF921Fe78",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xbB084DCBBc3da8eb18E42d7de193A4CdF921Fe78",
+      "groupId": 3,
+      "amount": "200000000000000000000",
+      "unlockAt": "1791801060"
+    },
+    {
+      "recipient": "0xCF23e9345361C8f175dd65DA9821977D26DF8f74",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xE08Aa1045953cAae635cf3b03C36dA31498dFf26",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xE08Aa1045953cAae635cf3b03C36dA31498dFf26",
+      "groupId": 3,
+      "amount": "50000000000000000000",
+      "unlockAt": "1791801060"
+    },
+    {
+      "recipient": "0xE1C6678B3E991935ab2456BC4Ed38D95CBE6768C",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xE2F24D27943a2ffcab82C84d17c09e072D4aA07E",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xE2F24D27943a2ffcab82C84d17c09e072D4aA07E",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xe4815aBC388531fE920293a222C01Cd6D1B61dD1",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xe4815aBC388531fE920293a222C01Cd6D1B61dD1",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xEa255C7d74010b0045562e58955FC0b0629C42FD",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xEF534035817878754655D650a7dbf7ddC60f1944",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xeFe87FD05eF34B2849dDEB26C1e8d11e94D2FE13",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xeFe87FD05eF34B2849dDEB26C1e8d11e94D2FE13",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xF13f6dde79f199F9d46c05950812Ef43cE217dFF",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xF13f6dde79f199F9d46c05950812Ef43cE217dFF",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xF4F6bE584895ef7B1D429D5677c54Db7EFca8056",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xF56c764780FbE4a7D22e9639FbCCf8CFd3E85303",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xFB198109cC585501505038c9Fe25ba0A6c7474F9",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xFB198109cC585501505038c9Fe25ba0A6c7474F9",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xFB198109cC585501505038c9Fe25ba0A6c7474F9",
+      "groupId": 3,
+      "amount": "1300000000000000000000",
+      "unlockAt": "1791801060"
+    },
+    {
+      "recipient": "0xfB411646F2D0255668cB6911D67792516a362834",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xfDBf976A60906417A2Ce7635eCdcfA4b8D48D635",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xfDBf976A60906417A2Ce7635eCdcfA4b8D48D635",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xfe15ea6748c050A367F82ECeAA6FF8A6fc2AF863",
+      "groupId": 1,
+      "amount": "75000000000000000000",
+      "unlockAt": "0"
+    },
+    {
+      "recipient": "0xfe15ea6748c050A367F82ECeAA6FF8A6fc2AF863",
+      "groupId": 2,
+      "amount": "100000000000000000000",
+      "unlockAt": "0"
+    }
+  ]
+}
