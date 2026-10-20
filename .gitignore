@@ -1,0 +1,3 @@
+# Node dependencies used only to run scripts/verify.js locally.
+node_modules/
+package-lock.json

@@ -1,0 +1,61 @@
+﻿{
+  "schema": "linglink-airdrop-manifest/v1",
+  "roundNo": 2,
+  "chainId": 97,
+  "tokenAddress": "0x2799B7cCD6776759d96Ec62F9192a742a28c7d0f",
+  "distributorAddress": "0x27Ad5B3EcB0a1907d3cD754CB6AbC72fD02f31ef",
+  "merkleRoot": "0x6fb94b7e8634e89e0a34a7806762a7917bdaf3071a179317fd333080f62501f7",
+  "publishedAt": 1791801060,
+  "publishedAtIso": "2026-10-12T10:31:00Z",
+  "leafCount": 5,
+  "totalAmount": "550000000000000000000",
+  "leafAlgorithm": "keccak256(bytes.concat(keccak256(abi.encode(recipient,groupId,amount,unlockAt))))",
+  "pairHashAlgorithm": "openzeppelin-sorted-pair",
+  "groups": {
+    "1": "register",
+    "2": "profile",
+    "3": "referral"
+  },
+  "entries": [
+    {
+      "recipient": "0x1111111111111111111111111111111111111111",
+      "groupId": 1,
+      "amount": "100000000000000000000",
+      "amountHuman": "100",
+      "unlockAt": 0,
+      "unlockAtIso": null
+    },
+    {
+      "recipient": "0x2222222222222222222222222222222222222222",
+      "groupId": 3,
+      "amount": "150000000000000000000",
+      "amountHuman": "150",
+      "unlockAt": 1791801060,
+      "unlockAtIso": "2026-10-12T10:31:00Z"
+    },
+    {
+      "recipient": "0x7CdC3FA08190a97a0C979f443C11136beddC8Ac5",
+      "groupId": 1,
+      "amount": "100000000000000000000",
+      "amountHuman": "100",
+      "unlockAt": 0,
+      "unlockAtIso": null
+    },
+    {
+      "recipient": "0x7CdC3FA08190a97a0C979f443C11136beddC8Ac5",
+      "groupId": 2,
+      "amount": "50000000000000000000",
+      "amountHuman": "50",
+      "unlockAt": 0,
+      "unlockAtIso": null
+    },
+    {
+      "recipient": "0x7CdC3FA08190a97a0C979f443C11136beddC8Ac5",
+      "groupId": 3,
+      "amount": "150000000000000000000",
+      "amountHuman": "150",
+      "unlockAt": 1791801060,
+      "unlockAtIso": "2026-10-12T10:31:00Z"
+    }
+  ]
+}
